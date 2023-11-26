@@ -1,0 +1,74 @@
+**Nível 1: Fundamentos**
+
+* **Olá, Mundo!**
+    * Escreva um programa que mostre a mensagem "Olá, Mundo!" na tela.
+* **Interação com um botão**
+    * Crie um botão e faça com que ele exiba uma mensagem na tela quando for clicado.
+* **Usando o prompt() e o alert() juntos**
+    * Peça ao usuário para digitar seu nome e, em seguida, exiba uma mensagem de boas-vindas com seu nome.
+* **Interagindo com partes do HTML (DOM)**
+    * Altere o estilo de uma elemento HTML usando JavaScript.
+* **Manipulando números**
+    * Escreva um programa que some dois números.
+* **Calculando a média de um aluno**
+    * Escreva um programa que calcule a média de um aluno com base em suas notas.
+
+**Nível 2: Condicionais**
+
+* **Verificando se um número é maior que 100**
+    * Escreva um programa que verifique se um número é maior que 100.
+* **Verificando se um número é par ou ímpar**
+    * Escreva um programa que verifique se um número é par ou ímpar.
+* **Verificando se um ano é bissexto**
+    * Escreva um programa que verifique se um ano é bissexto.
+* **Verificando se um número é divisível por 3**
+    * Escreva um programa que verifique se um número é divisível por 3.
+* **Verificando se um número é primo**
+    * Escreva um programa que verifique se um número é primo.
+
+**Nível 3: Repetições**
+
+* **Contando de 1 até 10**
+    * Escreva um programa que conte de 1 até 10.
+* **Contando de 1 até 10 (marcando os pares)**
+    * Escreva um programa que conte de 1 até 10, marcando os números pares.
+* **Contando de 1 até 10 (mostrando só os pares)**
+    * Escreva um programa que conte de 1 até 10, mostrando apenas os números pares.
+* **Contagem regressiva de 10 até 1**
+    * Escreva um programa que conte regressivamente de 10 até 1.
+* **Pegando dados de um formulário**
+    * Escreva um programa que leia os dados de um formulário HTML e os exiba na tela.
+* **Contagem mais "inteligente"**
+    * Escreva um programa que conte de 1 até 10, mas usando uma variável para controlar o loop.
+* **Tabuada**
+    * Escreva um programa que imprima a tabuada de um número.
+* **Fatorial de um número**
+    * Escreva um programa que calcule o fatorial de um número.
+
+**Nível 4: Funções**
+
+* **Criando uma função**
+    * Crie uma função que soma dois números.
+* **Passando parâmetros para uma função**
+    * Crie uma função que recebe dois números como parâmetros e retorna a soma deles.
+* **Retornando valores de uma função**
+    * Crie uma função que retorna o maior de dois números.
+* **Criando uma função anônima**
+    * Crie uma função anônima que soma dois números.
+* **Chamada de funções recursivas**
+    * Crie uma função recursiva que calcula o fatorial de um número.
+
+**Nível 5: Objetos e classes**
+
+* **Criando um objeto**
+    * Crie um objeto que represente uma pessoa, com os atributos nome, idade e altura.
+* **Acessando os atributos de um objeto**
+    * Crie uma função que receba um objeto como parâmetro e exiba o nome da pessoa representada pelo objeto.
+* **Modificando os atributos de um objeto**
+    * Crie uma função que modifique a idade da pessoa representada por um objeto.
+* **Criando uma classe**
+    * Crie uma classe que represente uma pessoa, com os atributos nome, idade e altura.
+* **Instanciando objetos de uma classe**
+    * Crie uma função que instancie um objeto da classe pessoa e exiba o nome da pessoa.
+
+Essa lista de exercícios é apenas um ponto de partida. Você pode encontrar muitos outros exercícios online ou em livros de programação. O importante é praticar regularmente e se desafiar a aprender coisas novas.
