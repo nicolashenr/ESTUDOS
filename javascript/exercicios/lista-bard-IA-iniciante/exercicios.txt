@@ -1,9 +1,9 @@
 **Nível 1: Fundamentos**
 
 * **Olá, Mundo!**
-    * Escreva um programa que mostre a mensagem "Olá, Mundo!" na tela.
+    * Escreva um programa que mostre a mensagem "Olá, Mundo!" na tela.  -FEITO
 * **Interação com um botão**
-    * Crie um botão e faça com que ele exiba uma mensagem na tela quando for clicado.
+    * Crie um botão e faça com que ele exiba uma mensagem na tela quando for clicado. 
 * **Usando o prompt() e o alert() juntos**
     * Peça ao usuário para digitar seu nome e, em seguida, exiba uma mensagem de boas-vindas com seu nome.
 * **Interagindo com partes do HTML (DOM)**
